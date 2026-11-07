@@ -82,7 +82,7 @@ export default function Home() {
             <div className="absolute left-1/2 top-1/2 flex h-[72%] w-[72%] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#783F4A]/40">
               <div className="flex h-[78%] w-[78%] items-center justify-center rounded-full bg-[#783F4A]">
                 <span className="font-serif text-7xl italic text-[#F8F5F0] md:text-8xl">
-                  L.
+                  LUMA.
                 </span>
               </div>
             </div>
