@@ -92,7 +92,7 @@ export default function Home() {
             </p>
 
             <p className="absolute bottom-9 left-8 font-serif text-2xl italic text-[#783F4A]">
-              Feel like yourself.
+              Özün kimi hiss et.
             </p>
 
             <div className="absolute -right-3 top-1/4 flex h-20 w-20 items-center justify-center rounded-full bg-[#C5A77D] text-center text-[9px] uppercase leading-4 tracking-widest text-[#352629] shadow-lg md:-right-6 md:h-24 md:w-24">
