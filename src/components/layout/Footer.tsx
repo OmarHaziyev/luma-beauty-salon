@@ -4,7 +4,6 @@ import { studio } from "@/data/studio";
 const pages = [
   { label: "Xidmətlər", href: "/services" },
   { label: "Qiymətlər", href: "/pricing" },
-  { label: "Komandamız", href: "/team" },
   { label: "Haqqımızda", href: "/about" },
   { label: "Əlaqə", href: "/contact" },
   { label: "Rezervasiya", href: "/booking" },
